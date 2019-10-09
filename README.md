@@ -1,4 +1,4 @@
-# film7
+# film from TMDb 
 
 ## Project setup
 ```
